@@ -1,4 +1,4 @@
-If GitHub stops rendering .ipynb files AGAIN. Then view them at https://nbviewer.jupyter.org/ 
+# If GitHub stops rendering .ipynb files. Then view them at https://nbviewer.jupyter.org/ 
 
 # Jupyter Notebook
 
